@@ -1,0 +1,185 @@
+digraph ejemplo {
+	nodestep=1 rankdir=LR ranksep=3
+	"Capitán América El primer vengador" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Capitán América: El primer vengador</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2011</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Chris Evans" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El primer vengador":e -> "Chris Evans"
+	"Tommy Lee Jones" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El primer vengador":e -> "Tommy Lee Jones"
+	"Hayley Atwell" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El primer vengador":e -> "Hayley Atwell"
+	"Sebastian Stan" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El primer vengador":e -> "Sebastian Stan"
+	"Stan Lee" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El primer vengador":e -> "Stan Lee"
+	"Capitana Marvel" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Capitana Marvel</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2019</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Brie Larson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitana Marvel":e -> "Brie Larson"
+	"Samuel L. Jackson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitana Marvel":e -> "Samuel L. Jackson"
+	"Iron Man" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Iron Man</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2008</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Robert Downey Jr." [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man":e -> "Robert Downey Jr."
+	"Jon Favreau" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man":e -> "Jon Favreau"
+	"Gwyneth Paltrow" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man":e -> "Gwyneth Paltrow"
+	"Stan Lee" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man":e -> "Stan Lee"
+	"Iron Man 2" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Iron Man 2</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2011</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Robert Downey Jr." [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 2":e -> "Robert Downey Jr."
+	"Jon Favreau" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 2":e -> "Jon Favreau"
+	"Gwyneth Paltrow" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 2":e -> "Gwyneth Paltrow"
+	"Stan Lee" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 2":e -> "Stan Lee"
+	"Scarlett Johansson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 2":e -> "Scarlett Johansson"
+	"Capitán América El Soldado de Invierno" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Capitán América: El Soldado de Invierno</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2014</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Chris Evans" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El Soldado de Invierno":e -> "Chris Evans"
+	"Scarlett Johansson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El Soldado de Invierno":e -> "Scarlett Johansson"
+	"Sebastian Stan" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El Soldado de Invierno":e -> "Sebastian Stan"
+	"Anthony Mackie" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El Soldado de Invierno":e -> "Anthony Mackie"
+	"Samuel L. Jackson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El Soldado de Invierno":e -> "Samuel L. Jackson"
+	"Stan Lee" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Capitán América El Soldado de Invierno":e -> "Stan Lee"
+	Thor [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Thor</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2011</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Chris Hemsworth" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	Thor:e -> "Chris Hemsworth"
+	"Natalie Portman" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	Thor:e -> "Natalie Portman"
+	"Tom Hiddleston" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	Thor:e -> "Tom Hiddleston"
+	"Idris Elba" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	Thor:e -> "Idris Elba"
+	"Los Vengadores" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Los Vengadores</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2012</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Scarlett Johansson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Scarlett Johansson"
+	"Gwyneth Paltrow" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Gwyneth Paltrow"
+	"Robert Downey Jr." [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Robert Downey Jr."
+	"Jeremy Renner" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Jeremy Renner"
+	"Chris Evans" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Chris Evans"
+	"Chris Hemsworth" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Chris Hemsworth"
+	"Mark Ruffalo" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Mark Ruffalo"
+	"Samuel L. Jackson" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Los Vengadores":e -> "Samuel L. Jackson"
+	"Thor El mundo oscuro" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Thor: El mundo oscuro</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2013</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Chris Hemsworth" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Chris Hemsworth"
+	"Natalie Portman" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Natalie Portman"
+	"Tom Hiddleston" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Tom Hiddleston"
+	"Anthony Hopkins" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Anthony Hopkins"
+	"Idris Elba" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Idris Elba"
+	"Stellan Skarsgård" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Stellan Skarsgård"
+	"Christopher Eccleston" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Christopher Eccleston"
+	"Adrianne Palicki" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Thor El mundo oscuro":e -> "Adrianne Palicki"
+	"Iron Man 3" [label=<
+                        <TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+                            <TR>
+                                <TD COLSPAN="2" bgcolor="#507bef"><FONT COLOR="black">Iron Man 3</FONT></TD>
+                            </TR>
+                            <TR>
+                                <TD><FONT COLOR="black">2013</FONT></TD>
+                                <TD><FONT COLOR="black">Accion</FONT></TD>
+                            </TR>
+                        </TABLE>> shape=none]
+	"Robert Downey Jr." [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 3":e -> "Robert Downey Jr."
+	"Jon Favreau" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 3":e -> "Jon Favreau"
+	"Gwyneth Paltrow" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 3":e -> "Gwyneth Paltrow"
+	"Stan Lee" [color="#36d6b2" fontcolor=black shape=box style=filled]
+	"Iron Man 3":e -> "Stan Lee"
+}
